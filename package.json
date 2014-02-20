@@ -1,0 +1,16 @@
+{
+  "name": "node-youtube2mp3",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "path": "*"
+  },
+  "author": "Cumhur Korkut <cumhurkorkut@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/joom/node-youtube2mp3"
+  }
+}

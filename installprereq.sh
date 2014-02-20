@@ -1,0 +1,1 @@
+sudo apt-get install youtube-dl ffmpeg libavcodec-extra-53
